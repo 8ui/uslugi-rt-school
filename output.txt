@@ -1,0 +1,797 @@
+
+    <div class="tt">
+        <table>
+            <caption>Месяц: <u>Март</u></caption>
+            <thead>
+            <tr>
+                <td class="tt-days"><div><img src="/design/images/edu/idiary/days.png"></div></td>
+                <td class="tt-subj"><div><img src="/design/images/edu/idiary/subj.png"></div></td>
+                <td class="tt-task"><div><img src="/design/images/edu/idiary/task.png"></div></td>
+                <td class="tt-mark"><div><img src="/design/images/edu/idiary/mark.png"></div></td>
+            </tr>
+            </thead>
+            <tbody>
+
+                                                                                        <tr>
+                                                            <td class="tt-days" rowspan="10">
+                                    <div class="tt-days-mo"><span>15</span></div>
+                                </td>
+                                                        <td class="tt-subj">
+                                <div>Родной язык</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    Выполнить задание на с.84 №12, выделить глаголы
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                            5                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Лит. чтение</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    прочитать с. 56-58, ответить на 1-4 вопросы
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Матем.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    выполнить №7 с.35
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Англ. яз</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    Перевести:<br>
+1. Мальчики находятся перед телевизором.<br>
+2. На столе телевизор.<br>
+3. Мальчик на диване.<br>
+4. Стул находится рядом с диваном.<br>
+5. Телефон на столе.
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                            5                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Физ-ра</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    Спортивная форма
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                    <tr class="tt-separator"><td colspan="4"></td></tr>
+                                                                                        <tr>
+                                                            <td class="tt-days" rowspan="10">
+                                    <div class="tt-days-tu"><span>16</span></div>
+                                </td>
+                                                        <td class="tt-subj">
+                                <div>Лит. чтение</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    прочитать с. 56-58, ответить на 1-4 вопросы
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Матем.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    выполнить №9 с.32, №8 с.36
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                            4                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Рус.яз.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    учить словарные слова (упр373)Упр 374 -разобрать слова по составу
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>ИЗО</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    завершить работу в цвете
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                            4                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Музыка</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    Повторять запись в тетради.
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                            5                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                    <tr class="tt-separator"><td colspan="4"></td></tr>
+                                                                                        <tr>
+                                                            <td class="tt-days" rowspan="10">
+                                    <div class="tt-days-we"><span>17</span></div>
+                                </td>
+                                                        <td class="tt-subj">
+                                <div>Рус.яз.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    выполнить задание на индивид карточке
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Матем.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    выполнить №2 с.34
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Родной язык</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    Выполнить задание на с.84 №14
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Окр.мир</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    готовиться к проверочной работе с.4-38
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Англ. яз</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    Выполнить упр. с84-86
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                    <tr class="tt-separator"><td colspan="4"></td></tr>
+                        </tbody>
+        </table>
+        <table style="float:right">
+            <caption>Месяц: <u>Март</u></caption>
+            <thead>
+            <tr>
+                <td class="tt-days"><div><img src="/design/images/edu/idiary/days.png"></div></td>
+                <td class="tt-subj"><div><img src="/design/images/edu/idiary/subj.png"></div></td>
+                <td class="tt-task"><div><img src="/design/images/edu/idiary/task.png"></div></td>
+                <td class="tt-mark"><div><img src="/design/images/edu/idiary/mark.png"></div></td>
+            </tr>
+            </thead>
+            <tbody>
+                                                                                        <tr>
+                                                            <td class="tt-days" rowspan="10">
+                                    <div class="tt-days-th"><span>18</span></div>
+                                </td>
+                                                        <td class="tt-subj">
+                                <div>Физ-ра</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    Спортивная форма
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Литературное чтение на родном языке</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    Прочитать текст на с.241-257
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Матем.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    выполнить №
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Рус.яз.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    выполнить
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Окр.мир</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    пересказ
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                    <tr class="tt-separator"><td colspan="4"></td></tr>
+                                                                                        <tr>
+                                                            <td class="tt-days" rowspan="10">
+                                    <div class="tt-days-fr"><span>19</span></div>
+                                </td>
+                                                        <td class="tt-subj">
+                                <div>Рус.яз.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    выполнить
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Физ-ра</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    Спортивная форма
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Матем.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    выполнить №
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Лит. чтение</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    записать характеристику главного героя рассказа
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                    <tr class="tt-separator"><td colspan="4"></td></tr>
+                                                                                        <tr>
+                                                            <td class="tt-days" rowspan="10">
+                                    <div class="tt-days-sa"><span>20</span></div>
+                                </td>
+                                                        <td class="tt-subj">
+                                <div>Рус.яз.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    выполнить
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div>Техн.</div>
+                            </td>
+                            <td class="tt-task">
+                                <div>
+                                    завершить работу
+                                </div>
+                            </td>
+                            <td class="tt-mark">
+                                <div>
+                                                                    </div>
+                            </td>
+                        </tr>
+                                                                                                        <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                                                <tr>
+                                                        <td class="tt-subj">
+                                <div></div>
+                            </td>
+                            <td class="tt-task">
+                                <div></div>
+                            </td>
+                            <td class="tt-mark tt-mark-bad">
+                                <div></div>
+                            </td>
+                        </tr>
+                                                    <tr class="tt-separator"><td colspan="4"></td></tr>
+                        </tbody>
+        </table>
+    </div>
