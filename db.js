@@ -14,11 +14,14 @@ const db = {
   async get(path) {
     return new Promise((resolve, reject) => {
       fs.readFile(`db.${path}.txt`, (err, data) => {
-        if (err) return reject(err);
+        if (err) {
+          reject(err);
+          return;
+        }
         try {
-          return resolve(JSON.parse(data || '[]'));
+          resolve(JSON.parse(data || '[]'));
         } catch (e) {
-          return []
+          resolve([])
         }
       })
     })
