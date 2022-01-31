@@ -2,6 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 const db = require('./db')
 const parser = require('./parser');
+const parserSchool = require("./parser.school");
 
 // replace the value below with the Telegram token you receive from @BotFather
 const token = '1791208940:AAGtX_BhXmRSPDJ1Wd9aI1Gj1VcUhlw3LKY';
@@ -69,11 +70,28 @@ const port = 8082;
 app.use(express.json());
 
 // We are receiving updates at the route below!
-app.get('/start', async(req, res) => {
+app.get('/send-marks', async(req, res) => {
   const data = await parser();
   await db.push('data', data);
   await sendMarks(data);
   await sendTasks(data);
+  res.send('OK');
+});
+
+// We are receiving updates at the route below!
+app.get('/check-school', async(req, res) => {
+  const num = await parserSchool();
+  const oldNum = await db.get('school');
+
+  if (num !== oldNum) {
+    const users = await db.get('users');
+    users.forEach((user) => {
+      index.sendMessage(user.chatId, "Появилась запись в школу!");
+    })
+
+    await db.set('school', num);
+  }
+
   res.send('OK');
 });
 

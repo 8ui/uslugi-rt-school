@@ -1,6 +1,14 @@
 const fs = require("fs")
 
 const db = {
+  async set(path, data) {
+    return new Promise((resolve, reject) => {
+      fs.writeFile(`db.${path}.txt`, data.toString(), (err, result) => {
+        if (err) return reject(err);
+        return resolve(result);
+      })
+    })
+  },
   async push(path, data) {
     let r = await db.get(path);
     r.push(data)
