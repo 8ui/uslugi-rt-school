@@ -10,8 +10,13 @@
   "author": " <name> (<url>)",
   "license": "ISC",
   "dependencies": {
+    "@testing-library/user-event": "^14.4.3",
     "jsdom": "^16.5.1",
+    "node-horseman": "^3.3.0",
     "node-telegram-bot-api": "^0.51.0",
+    "phantom": "^6.3.0",
+    "phantomjs-prebuilt": "^2.1.16",
+    "prompt-sync": "^4.2.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
   },

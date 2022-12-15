@@ -60,7 +60,7 @@ const init = async() => {
       }
     }
   })
-  
+
   return result;
   // fs.writeFile('output.txt', JSON.stringify(result), (err) => {
   //   if (!err) return console.log('Complete!')
